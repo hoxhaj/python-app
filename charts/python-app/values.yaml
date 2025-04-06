@@ -2,7 +2,7 @@ replicaCount: 1
 image:
   repository: indry/python-app
   pullPolicy: IfNotPresent
-  tag: 17fd17
+  tag: 3cae90
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
